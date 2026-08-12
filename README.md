@@ -4,7 +4,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img
       alt="Sergio Romero — Chief Cloud Officer, cloud architect and DevOps lead"
-      src="https://readme-typing-svg.demolab.com/?lines=Chief+Cloud+Officer+%7C+DevOps+%C2%B7+SRE+%C2%B7+SecOps;Building+Pigui+%E2%80%94+B2B+platform+for+brands+and+stores;AWS+x6+%7C+GCP+x3+%7C+Azure+x2+%7C+Terraform+%7C+Kubernetes;Python+%C2%B7+FastAPI+%C2%B7+Flutter+%C2%B7+Swift+%C2%B7+PostgreSQL&font=Fira+Code&center=true&width=760&height=45&color=58A6FF&vCenter=true&pause=1000&size=21"
+      src="https://readme-typing-svg.demolab.com/?lines=%24+whoami+%E2%86%92+Chief+Cloud+Officer;%24+DevOps+%C2%B7+SRE+%C2%B7+SecOps+%C2%B7+Cloud+Architect;%24+building+Pigui+%E2%80%94+B2B+for+brands+and+stores;%24+AWS+x6+%7C+GCP+x3+%7C+Azure+x2+%7C+Terraform;%24+Python+%C2%B7+FastAPI+%C2%B7+Flutter+%C2%B7+Swift+%C2%B7+PostgreSQL&font=Fira+Code&weight=500&size=21&pause=900&color=3FB950&background=0D1117&center=true&vCenter=true&width=760&height=60&repeat=true"
     />
   </a>
 </p>
@@ -142,5 +142,15 @@
     <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img alt="Contribution streak" src="https://streak-stats.demolab.com/?user=SergiorCode&theme=github-dark-blue&hide_border=true&short_numbers=true" /></a>
   </p>
 
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Activity graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=SergiorCode&bg_color=0D1117&color=F8D866&line=58A6FF&point=FFFFFF&hide_border=true" /></a>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Activity graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=SergiorCode&bg_color=0D1117&color=F8D866&line=3FB950&point=FFFFFF&hide_border=true" /></a>
 </details>
+
+<h3 align="center">🐍 Watching the contribution grid get eaten</h3>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SergiorCode/SergiorCode/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SergiorCode/SergiorCode/output/snake.svg" />
+    <img alt="Snake eating the contribution graph" src="https://raw.githubusercontent.com/SergiorCode/SergiorCode/output/snake-dark.svg" />
+  </picture>
+</p>
