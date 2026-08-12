@@ -18,7 +18,7 @@
 
 <p align="center">
   <a href="https://github.com/SergiorCode?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/SergiorCode?style=for-the-badge&logo=github&label=FOLLOWERS&color=1F883D" /></a>
-  <a href="https://github.com/SergiorCode?tab=repositories"><img alt="Public repositories" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FSergiorCode&query=%24.public_repos&label=PUBLIC_REPOS&style=for-the-badge&logo=github&logoColor=white&color=6E40C9" /></a>
+  <a href="https://github.com/SergiorCode?tab=stars"><img alt="Stars given" src="https://img.shields.io/github/stars/SergiorCode/nodo-mac?style=for-the-badge&logo=github&label=NODO_STARS&color=6E40C9" /></a>
   <a href="https://github.com/pulls?q=is%3Apr+author%3ASergiorCode"><img alt="Upstream pull requests" src="https://img.shields.io/badge/UPSTREAM_PRS-4-0969DA?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
