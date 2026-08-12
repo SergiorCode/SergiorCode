@@ -81,3 +81,5 @@ Day to day that means Python and FastAPI, Flutter and Dart, Postgres and PostGIS
 <p align="left">
   <img src="https://streak-stats.demolab.com/?user=SergiorCode&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub streak">
 </p>
+
+<!-- profile readme -->
